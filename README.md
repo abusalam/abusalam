@@ -1,5 +1,7 @@
-# Abu Salam Parvez Alam
+# Hi, I'm Abu Salam 👋 
+### Scientist at National Informatics Centre, West Bengal, India
 
+#### Working on [Migrant Workers](https://github.com/nicwb/migrant-workers) Project to help migrant workers to get jobs who lost their jobs during COVID-19.
 <!--
 **abusalam/abusalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
